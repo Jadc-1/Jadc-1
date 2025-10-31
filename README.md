@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e pela criação de soluções que possam impactar positivamente o mundo. Atualmente, estou desenvolvendo habilidades em linguagens de programação como Python, C, JavaScript. além de fundamentos de engenharia de software, modelagem de sistemas, bancos de dados e versionamento de códigos .
+  Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e pela criação de soluções que possam impactar positivamente o mundo. Atualmente, estou desenvolvendo habilidades em linguagens de programação como Python, C, C#, Java. além de fundamentos de engenharia de software, modelagem de sistemas, bancos de dados e versionamento de códigos .
 
 
 ## 🌐 Socials:
